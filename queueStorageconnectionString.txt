@@ -1,0 +1,2 @@
+DefaultEndpointsProtocol=https;AccountName=sajesumefuncnetqueue;AccountKey=o26b1qFN5DECt+eTlsGBIiTMSKqZQM32+VjPoMcauvut55V3jWBU76PuVhzGI2zvdthBsU1BP8OC3DSw8ZKJ6A==;EndpointSuffix=core.windows.net
+myqueue-items
